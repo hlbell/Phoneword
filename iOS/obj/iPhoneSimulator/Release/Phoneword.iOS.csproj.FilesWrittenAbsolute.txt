@@ -1,0 +1,14 @@
+/Users/hlbell/Projects/Phoneword/iOS/obj/iPhoneSimulator/Release/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/hlbell/Projects/Phoneword/iOS/obj/iPhoneSimulator/Release/ibtool/_BundleResourceWithLogicalName.items
+/Users/hlbell/Projects/Phoneword/iOS/obj/iPhoneSimulator/Release/actool/_PartialAppManifest.items
+/Users/hlbell/Projects/Phoneword/iOS/obj/iPhoneSimulator/Release/actool/_BundleResourceWithLogicalName.items
+/Users/hlbell/Projects/Phoneword/iOS/obj/iPhoneSimulator/Release/optimized/
+/Users/hlbell/Projects/Phoneword/iOS/bin/iPhoneSimulator/Release/Phoneword.iOS.exe.mdb
+/Users/hlbell/Projects/Phoneword/iOS/bin/iPhoneSimulator/Release/Phoneword.iOS.exe
+/Users/hlbell/Projects/Phoneword/iOS/obj/iPhoneSimulator/Release/Phoneword.iOS.exe
+/Users/hlbell/Projects/Phoneword/iOS/obj/iPhoneSimulator/Release/Phoneword.iOS.exe.mdb
+/Users/hlbell/Projects/Phoneword/iOS/bin/iPhoneSimulator/Release/Xamarin.Forms.Core.dll
+/Users/hlbell/Projects/Phoneword/iOS/bin/iPhoneSimulator/Release/Xamarin.Forms.Platform.dll
+/Users/hlbell/Projects/Phoneword/iOS/bin/iPhoneSimulator/Release/Xamarin.Forms.Platform.iOS.dll
+/Users/hlbell/Projects/Phoneword/iOS/bin/iPhoneSimulator/Release/Xamarin.Forms.Xaml.dll
+/Users/hlbell/Projects/Phoneword/iOS/bin/iPhoneSimulator/Release/Phoneword.dll

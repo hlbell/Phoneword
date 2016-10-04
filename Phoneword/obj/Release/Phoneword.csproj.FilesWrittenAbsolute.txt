@@ -1,0 +1,12 @@
+/Users/hlbell/Projects/Phoneword/Phoneword/obj/Release/.NETPortable,Version=v4.5,Profile=Profile259.AssemblyAttribute.cs
+/Users/hlbell/Projects/Phoneword/Phoneword/obj/Release/Phoneword.App.xaml
+/Users/hlbell/Projects/Phoneword/Phoneword/obj/Release/Phoneword.PhonewordPage.xaml
+/Users/hlbell/Projects/Phoneword/Phoneword/obj/Release/Phoneword.MainPage.xaml
+/Users/hlbell/Projects/Phoneword/Phoneword/obj/Release/Phoneword.App.xaml.g.cs
+/Users/hlbell/Projects/Phoneword/Phoneword/obj/Release/Phoneword.PhonewordPage.xaml.g.cs
+/Users/hlbell/Projects/Phoneword/Phoneword/obj/Release/Phoneword.MainPage.xaml.g.cs
+/Users/hlbell/Projects/Phoneword/Phoneword/bin/Release/Phoneword.dll
+/Users/hlbell/Projects/Phoneword/Phoneword/obj/Release/Phoneword.dll
+/Users/hlbell/Projects/Phoneword/Phoneword/bin/Release/Xamarin.Forms.Core.dll
+/Users/hlbell/Projects/Phoneword/Phoneword/bin/Release/Xamarin.Forms.Platform.dll
+/Users/hlbell/Projects/Phoneword/Phoneword/bin/Release/Xamarin.Forms.Xaml.dll
